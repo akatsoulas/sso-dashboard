@@ -87,7 +87,7 @@ sh.update(
             ],
             'img-src': [
                 'self',
-                'https://mozillians.org',
+                'https://*.mozillians.org',
                 'https://*.google-analytics.com'
             ],
             'font-src': [
